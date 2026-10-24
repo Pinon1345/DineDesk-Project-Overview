@@ -1,125 +1,104 @@
-# DineDesk
-### The Future of Dining & Reservations
+<div align="center">
 
-<p align="center">
-  <strong>Discover better dining. Reserve with ease. Experience more.</strong>
-</p>
+  <h1><b>🍽️DineDesk</b></h1>
+  <h3>The Future of Dining, Table Reservations & Intelligent Culinary Ecosystems</h3>
 
-<p align="center">
-  A modern restaurant platform bringing discovery, reservations, food ordering, intelligent recommendations, and loyalty experiences together in one seamless digital ecosystem.
-</p>
+  <p>
+    <strong>Discover better dining. Reserve with ease. Experience more.</strong>
+  </p>
 
-<p align="center">
-  <a href="docs/FRONTEND.md">Frontend Documentation</a> ·
-  <a href="docs/BACKEND.md">Backend Documentation</a>
-</p>
+  <p>
+    A next-generation, enterprise-grade restaurant platform unifying seamless restaurant discovery, instant table bookings, live-tracked food delivery, AI-powered culinary recommendations, and tiered loyalty rewards into a single cohesive ecosystem.
+  </p>
 
----
+  <p>
+    <a href="https://dine-desk-one.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Frontend_Live_Preview-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview" /></a>
+    <a href="https://dine-desk-backend.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🚀_Backend_API_Endpoint-1E1E1E?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Backend API" /></a>
+  </p>
 
-## About the Project
+  <p>
+    <a href="docs/FRONTEND.md">📖 Frontend Documentation</a> · 
+    <a href="docs/BACKEND.md">⚙️ Backend Documentation</a>
+  </p>
 
-**DineDesk** reimagines the digital dining experience by connecting customers with restaurants through a unified, technology-driven platform.
+  <p>
+    <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+    <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  </p>
 
-From discovering a restaurant and reserving a table to tracking an order and earning loyalty rewards, DineDesk is designed to make every interaction more convenient, intuitive, and rewarding.
-
-Built around modern web technologies and thoughtful user experience design, the platform brings restaurant services and intelligent digital experiences into one place.
-
-**Product vision:** Make dining simpler for customers and digital restaurant experiences smarter.
-
----
-
-## Explore DineDesk
-
-| Project Documentation | What's Inside |
-|:---|:---|
-| **[Frontend Documentation →](docs/FRONTEND.md)** | User interface, application architecture, frontend features, technologies, and setup instructions. |
-| **[Backend Documentation →](docs/BACKEND.md)** | API architecture, database design, authentication, integrations, and server configuration. |
-
-*Each document provides a dedicated technical overview of its respective application layer.*
+</div>
 
 ---
 
-## Core Experiences
+## 🌟 Executive Summary
 
-### 🍽️ Discover & Reserve
+**DineDesk** reimagines the modern digital dining lifecycle by bridging the gap between high-end culinary establishments and discerning patrons. 
 
-Explore restaurants and enjoy a streamlined table-reservation experience, with digital seating passes designed to simplify booking.
+By integrating intelligent discovery, instant seating passes, live kitchen tracking, automated AI recommendations, and secure online transactions, DineDesk eliminates traditional friction in hospitality management and customer dining experiences.
 
-### 📦 Order & Track
-
-Follow order progress with live status updates and delivery tracking, helping customers stay informed from preparation to arrival.
-
-### 🤖 TableMate AI
-
-Discover a more personalized dining experience with an AI-powered culinary assistant designed to help users explore restaurant options and recommendations.
-
-### 👑 Loyalty & Rewards
-
-Encourage repeat visits with loyalty points, Gold Tier rewards, and exclusive customer benefits.
-
-### 💳 Secure Payments
-
-Integrate payment experiences powered by Stripe for supported booking and ordering workflows.
+> **💡 Core Philosophy:** *Simplifying hospitality management for restaurant owners while making every dining experience effortless, intelligent, and rewarding for customers.*
 
 ---
 
-## Technology & Architecture
+## 📚 Technical Architecture Hub
 
-DineDesk brings together modern frontend development, server-side APIs, relational data management, and AI-powered experiences.
+This repository acts as the high-level coordination and documentation nexus for DineDesk. Select a layer below to review its technical specifications:
 
-| Layer | Technology |
-|:---|:---|
-| Frontend | Next.js |
-| Backend | Node.js, Express.js, TypeScript |
-| Database | PostgreSQL with Neon |
-| ORM | Prisma |
-| Payments | Stripe |
-| AI Integration | Google Gemini |
-| Deployment | Vercel |
-
-*See the frontend and backend documentation for implementation details. Technology availability and individual features may vary by application component.*
+| Architectural Layer | Core Focus & Documentation Summary | Deep Dive Link |
+| :--- | :--- | :--- |
+| **Frontend Architecture** | Component structure, responsive UI/UX patterns, state management, routing, and client workflows. | **[Explore Frontend Guide →](docs/FRONTEND.md)** |
+| **Backend Architecture** | REST API endpoints, database schemas, security middleware, authentication pipelines, and server setup. | **[Explore Backend Guide →](docs/BACKEND.md)** |
 
 ---
 
-## Project Links
+## 🔥 Key Platform Capabilities
 
-| Resource | Link |
-|:---|:---|
-| Frontend Preview | [Open DineDesk](https://dine-desk-one.vercel.app/) |
-| Backend Deployment | [Backend Endpoint](https://dine-desk-backend.vercel.app/) |
-| Frontend Documentation | [Read Frontend Guide](docs/FRONTEND.md) |
-| Backend Documentation | [Read Backend Guide](docs/BACKEND.md) |
-
----
-
-## Built by DevCore Solutions
-
-**DevCore Solutions** is focused on turning ideas into meaningful digital experiences through thoughtful design, modern engineering, and practical innovation.
-
-DineDesk reflects our commitment to building digital products that combine usability, functionality, and forward-looking technology.
-
-**DevCore Solutions — Turning Ideas Into Digital Experiences.**
+*   🍽️ **Smart Discovery & Seating Passes:** Filter restaurants by cuisine type, ratings, and availability, and secure tables instantly with unique digital seating passes.
+*   📦 **Live Order & Kitchen Tracking:** Monitor order progress in real-time from active kitchen preparation straight to table delivery or doorstep drop-off.
+*   🤖 **TableMate AI Assistant:** Powered by the **Google Gemini API** to provide smart food recommendations, menu queries, and tailored dietary insights.
+*   👑 **Tiered Loyalty & Rewards Program:** Drive customer retention through accumulated point systems, exclusive Gold Tier statuses, and special perks.
+*   💳 **Frictionless Payment Gateway:** Robust booking fee and order checkout integration powered securely by **Stripe**.
 
 ---
 
-## Repository Structure
+## ⚙️ Technology Stack & Infrastructure
+
+DineDesk is built upon a resilient, modern technology stack optimized for low latency, secure transactions, and high scalability.
+
+| Domain | Technology / Tool | Purpose |
+| :--- | :--- | :--- |
+| **Frontend UI** | Next.js, React, Tailwind CSS | High-performance Server-Side Rendering & fluid user interfaces |
+| **Backend API** | Node.js, Express.js, TypeScript | Scalable, type-safe business logic and RESTful controllers |
+| **Database** | PostgreSQL (Neon Cloud) | High-performance relational database storage |
+| **ORM Layer** | Prisma ORM | Type-safe database queries and automated schema migrations |
+| **Payment Engine** | Stripe API | Secure card processing and transaction handling |
+| **AI Intelligence** | Google Gemini API | Intelligent chatbot integration and recommendation engines |
+| **Cloud Hosting** | Vercel | Global edge infrastructure and serverless deployments |
+
+---
+
+## 🚀 Live Environment & Resource Links
+
+| Resource Type | Live Link / Reference |
+| :--- | :--- |
+| **Frontend Web Application** | [https://dine-desk-one.vercel.app/](https://dine-desk-one.vercel.app/) |
+| **Backend API Server** | [https://dine-desk-backend.vercel.app/](https://dine-desk-backend.vercel.app/) |
+| **Frontend Documentation** | [`docs/FRONTEND.md`](docs/FRONTEND.md) |
+| **Backend Documentation** | [`docs/BACKEND.md`](docs/BACKEND.md) |
+
+---
+
+## 📂 Repository Structure
 
 ```text
 DineDesk-Project-Overview/
-├── README.md
-└── docs/
-    ├── FRONTEND.md
-    └── BACKEND.md
-```
-
-This repository contains public-facing project information and technical documentation. The application source code is maintained separately in private repositories.
-
----
-
-<p align="center">
-  <strong>Dine smarter. Book faster. Experience DineDesk.</strong>
-</p>
-
-<p align="center">
-  <sub>Presented by DevCore Solutions · Built for a smarter dining experience.</sub>
-</p>
+├── 📄 README.md              # Central project documentation & overview hub
+└── 📁 docs/                  # Detailed architectural subsystem documentation
+    ├── 📄 FRONTEND.md        # Comprehensive frontend design & usage guide
+    └── 📄 BACKEND.md         # Comprehensive backend API & database schema guide
