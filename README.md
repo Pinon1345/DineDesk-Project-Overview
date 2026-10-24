@@ -92,7 +92,20 @@ DineDesk is built upon a resilient, modern technology stack optimized for low la
 | **Frontend Documentation** | [`docs/FRONTEND.md`](docs/FRONTEND.md) |
 | **Backend Documentation** | [`docs/BACKEND.md`](docs/BACKEND.md) |
 
+<br></br>
+
+
+<p align="center">
+  <strong>Dine smarter. Book faster. Experience DineDesk.</strong>
+</p>
+
+<p align="center">
+  <sub>Presented by <b>DevCore Solutions</b> · Built for a smarter dining experience.</sub>
+</p>
+
 ---
+
+<br></br>
 
 ## 📂 Repository Structure
 
@@ -102,3 +115,4 @@ DineDesk-Project-Overview/
 └── 📁 docs/                  # Detailed architectural subsystem documentation
     ├── 📄 FRONTEND.md        # Comprehensive frontend design & usage guide
     └── 📄 BACKEND.md         # Comprehensive backend API & database schema guide
+    
